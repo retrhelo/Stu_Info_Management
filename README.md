@@ -1,12 +1,13 @@
 # Stu-Info-Management
-=====================
 
-It is originally a practice from my C Programming Course. I was
-asked to programme a student information control system, which 
-is supposed to add, remove, check out, edit, and export student 
-information. 
+The Student Information Management System is a practice 
+for my C Programming learning. It uses the linked list
+for data-storing. And has a lot of features:  
 
-Stu-Info-Management is using the `linked list` structure, which 
-is the request from my course. 
+* A command-line console for operating
+* Easy-to-use commands
+* Users can `add`, `remove` and `sort` the information
+* Information is available for exporting into a
+  text-based file presented in a nice table.
 
-All the sources files are in the C language. 
+It is written by joel, as a college student. 
